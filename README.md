@@ -1,4 +1,4 @@
-# 🎬 ToonHub — 3D Animated Character Carousel
+# 🎬 ToonHub  3D Animated Character Carousel
 
 A sleek, interactive **3D collectible hero carousel** built with React, Vite, TypeScript, and Tailwind CSS. Designed for showcasing animated toon/character assets with smooth 3D transitions and a polished UI.
 
@@ -15,12 +15,12 @@ A sleek, interactive **3D collectible hero carousel** built with React, Vite, Ty
 
 ## ✨ Features
 
-- 🎠 **3D Character Carousel** — Smooth, perspective-based card rotation with depth
-- 🃏 **Collectible Hero Cards** — Display character stats, rarity, and animated highlights
-- ⚡ **Blazing Fast** — Powered by Vite 7 with single-file build output
-- 🎨 **Tailwind CSS v4** — Utility-first styling with zero config overhead
-- 🧩 **Fully Typed** — TypeScript throughout for safe, maintainable code
-- 📦 **Single-File Output** — Built with `vite-plugin-singlefile` for easy embedding
+- 🎠 **3D Character Carousel**  Smooth, perspective-based card rotation with depth
+- 🃏 **Collectible Hero Cards**  Display character stats, rarity, and animated highlights
+- ⚡ **Blazing Fast**  Powered by Vite 7 with single-file build output
+- 🎨 **Tailwind CSS v4**  Utility-first styling with zero config overhead
+- 🧩 **Fully Typed**  TypeScript throughout for safe, maintainable code
+- 📦 **Single-File Output**  Built with `vite-plugin-singlefile` for easy embedding
 
 ---
 
@@ -119,5 +119,5 @@ This project is private. All rights reserved © 2025 cmokehleza.
 
 ## 🙌 Acknowledgements
 
-- Built with [MotionSites AI](https://motionsites.ai) — AI-powered interactive component generation
+- Built with [MotionSites AI](https://motionsites.ai)  AI-powered interactive component generation
 - Inspired by collectible card game UI patterns and modern 3D web design trends
