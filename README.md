@@ -113,7 +113,7 @@ Tailwind CSS v4 is configured via `@tailwindcss/vite`. Adjust your design tokens
 
 ## 📄 License
 
-This project is private. All rights reserved © 2025 cmokehleza.
+This project is public. All rights reserved © 
 
 ---
 
